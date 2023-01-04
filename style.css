@@ -17,6 +17,8 @@ nav{
     padding-top: 40px;
     padding-left: 10%;
     padding-right: 10%;
+    position: sticky;
+    top: 0px;
 }
 .logo{
     color: white;
@@ -40,4 +42,125 @@ nav ul li a{
 nav ul li a:hover{
     color:  rgb(157, 11, 11);
     text-decoration: 0.3s;
-}    
+}
+
+.image{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    
+}
+
+.image img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 3px solid  rgb(157, 11, 11);
+}
+.image p{
+    color: white;
+    font-weight: bold;
+    padding: 30px;
+    margin: 30px;
+    font-size: 28px;
+
+}
+.crimson-text{
+    color: rgb(157, 11, 11);
+    font-weight: lighter;
+    font-size: 20px;
+   
+}
+.tags{
+    color: rgb(255, 255, 255);
+    align-items: center;
+    justify-content: center;
+}
+.about_section{
+    color: rgb(0, 0, 0.8);
+    background-color: rgb(10, 10, 10);
+}
+
+.about_section h1{
+    color: rgb(157, 11, 11);
+    font-weight: lighter;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    /* margin: 20PX; */
+}
+.services_section h1{
+    color: rgb(157, 11, 11);
+    font-weight: lighter;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    /* margin: 20PX; */
+}
+.skills_section h1{
+    color: rgb(157, 11, 11);
+    font-weight: lighter;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    /* margin: 20PX; */
+}
+.experiences_and_achievements h1{
+    color: rgb(157, 11, 11);
+    font-weight: lighter;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    /* margin: 20PX; */
+}
+.about_section P{
+    color: rgb(255, 255, 255);
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+
+}
+.services_section P{
+    color: rgb(255, 255, 255);
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+
+}
+.skills_section P{
+    color: rgb(255, 255, 255);
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+
+}
+.experiences_and_achievements P{
+    color: rgb(255, 255, 255);
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+
+}
+.services_section{
+    color: rgb(0, 0, 0.8);
+    background-color: rgb(10, 10, 10);
+}
+.skills_section{
+    color: rgb(0, 0, 0.8);
+    background-color: rgb(10, 10, 10);
+}
+.experiences_and_achievements{
+    color: rgb(0, 0, 0.8);
+    background-color: rgb(10, 10, 10);
+}
