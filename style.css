@@ -117,12 +117,15 @@ nav ul li a:hover{
     /* margin: 20PX; */
 }
 .about_section P{
-    color: rgb(255, 255, 255);
+    color: rgb(255, 247, 247);
     align-items: center;
     justify-content: center;
-    margin: auto;
+    margin: auto; 
     width: 640px; 
-    padding: 50px;
+    /* padding: 50px; */
+    font-size: larger;
+    font-family: 'Open Sans', sans-serif;
+    
 
 }
 .services_section P{
