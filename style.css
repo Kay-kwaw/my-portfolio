@@ -90,6 +90,8 @@ nav ul li a:hover{
     align-items: center;
     justify-content: center;
     padding: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Secular One', sans-serif;
     /* margin: 20PX; */
 }
 .services_section h1{
@@ -98,6 +100,8 @@ nav ul li a:hover{
     align-items: center;
     justify-content: center;
     padding: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Secular One', sans-serif;
     /* margin: 20PX; */
 }
 .skills_section h1{
@@ -106,6 +110,8 @@ nav ul li a:hover{
     align-items: center;
     justify-content: center;
     padding: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Secular One', sans-serif;
     /* margin: 20PX; */
 }
 .experiences_and_achievements h1{
@@ -114,6 +120,8 @@ nav ul li a:hover{
     align-items: center;
     justify-content: center;
     padding: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Secular One', sans-serif;
     /* margin: 20PX; */
 }
 .about_section P{
@@ -121,11 +129,12 @@ nav ul li a:hover{
     align-items: center;
     justify-content: center;
     margin: auto; 
-    width: 640px; 
-    /* padding: 50px; */
-    font-size: larger;
+    /* width: 640px;  */
+    padding: 50px;
+    font-size: x-large;
     font-family: 'Open Sans', sans-serif;
-    
+    line-height: 1.5;
+    word-spacing: 5;    
 
 }
 .services_section P{
@@ -135,16 +144,21 @@ nav ul li a:hover{
     margin: auto;
     width: 640px; 
     padding: 50px;
+    font-family: 'Open Sans', sans-serif;
 
 }
-.skills_section P{
+.skills_section ul li{
     color: rgb(255, 255, 255);
     align-items: center;
     justify-content: center;
-    margin: auto;
-    width: 640px; 
-    padding: 50px;
+     margin: auto; 
+     width: 640px; 
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
 
+}
+.skills_section ul li h1{
+    color: rgb(255, 255, 255);
 }
 .experiences_and_achievements P{
     color: rgb(255, 255, 255);
@@ -153,6 +167,7 @@ nav ul li a:hover{
     margin: auto;
     width: 640px; 
     padding: 50px;
+    font-family: 'Open Sans', sans-serif;
 
 }
 .services_section{
@@ -161,9 +176,24 @@ nav ul li a:hover{
 }
 .skills_section{
     color: rgb(0, 0, 0.8);
-    background-color: rgb(10, 10, 10);
+    background-color: rgb(0, 0, 0);
 }
 .experiences_and_achievements{
     color: rgb(0, 0, 0.8);
     background-color: rgb(10, 10, 10);
+}
+
+.containers ul{
+    margin: 0;
+    padding: 0;
+
+}
+
+.containers ul li{
+    list-style: none;
+    float: left;
+    width: 20%;
+    height: 300px;
+    background-color: rgb(144, 57, 57);
+    margin: 40px 40px 0px 55px;
 }
