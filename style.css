@@ -191,4 +191,11 @@ nav ul li a:hover{
     background-color: #2196F3;
     padding: 10px;
   }
-  
+  .grid{
+    display: block;
+    padding: 16px;
+  }
+
+ .col{
+    background-color: #2196F3;
+ } 
