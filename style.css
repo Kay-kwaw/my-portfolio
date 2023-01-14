@@ -155,14 +155,13 @@ nav ul li a:hover{
 
 }
 .experiences_and_achievements P{
-    color: rgb(255, 255, 255);
+    color: rgb(255, 247, 247);
     align-items: center;
     justify-content: center;
-    margin: auto;
-    width: 640px; 
-    padding: 50px;
+    margin: auto; 
+    padding: 20px;
+    font-size: larger;
     font-family: 'Open Sans', sans-serif;
-    font-size: large;
 }
 .skills_section{
     background-color: rgb(0, 0, 0);
