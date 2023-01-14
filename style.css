@@ -155,6 +155,7 @@ nav ul li a:hover{
      width: 640px; 
     padding: 10px;
     font-family: 'Open Sans', sans-serif;
+    font-size: x-large;
 
 }
 .skills_section ul li h1{
@@ -168,19 +169,16 @@ nav ul li a:hover{
     width: 640px; 
     padding: 50px;
     font-family: 'Open Sans', sans-serif;
+    font-size: x-large;
 
 }
-/* .services_section{
-    color: rgb(0, 0, 0.8);
-    background-color: rgb(10, 10, 10);
-} */
+
 .skills_section{
-    color: rgb(0, 0, 0.8);
     background-color: rgb(0, 0, 0);
 }
 .experiences_and_achievements{
-    color: rgb(0, 0, 0.8);
     background-color: rgb(10, 10, 10);
+    
 }
 .grid-container {
     display: flex;
@@ -190,34 +188,4 @@ nav ul li a:hover{
     padding: 10px;
   }
 
- .col{
-    background-color: #2196F3;
 
-    @media (min-width: 768px) {
-        display: grid;
-        grid-gap: 16px;
-        grid-template-columns: 1fr 1fr 1fr 1fr;
-        
-    }
- } 
- .col-1{
-    background-color: #2196F3;
-    padding: 16px;
-
-    @media (min-width: 768px) {
-        display: grid;
-        grid-gap: 16px;
-        grid-template-columns: 1fr 1fr 1fr 1fr;
-        
-    }
- } 
- .col-2{
-    background-color: #2196F3;
-
-    @media (min-width: 768px) {
-        display: grid;
-        grid-gap: 16px;
-        grid-template-columns: 1fr 1fr 1fr 1fr;
-        
-    }
- } 
