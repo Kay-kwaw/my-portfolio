@@ -116,7 +116,7 @@ nav ul li a:hover{
     font-family: 'Secular One', sans-serif;
    
 }
-.experiences_and_achievements h1{
+.experiences_section h1{
     color: rgb(157, 11, 11);
     font-weight: lighter;
     align-items: center;
@@ -131,6 +131,17 @@ nav ul li a:hover{
     justify-content: center;
     margin: auto; 
     padding: 50px;
+    font-size: larger;
+    font-family: 'Open Sans', sans-serif;
+   
+
+}
+.experiences_section P{
+    color: rgb(255, 247, 247);
+    align-items: center;
+    justify-content: center;
+    /* margin: 200px ; 
+    padding: 20px; */
     font-size: larger;
     font-family: 'Open Sans', sans-serif;
    
@@ -154,21 +165,12 @@ nav ul li a:hover{
     font-size: large;
 
 }
-.experiences_and_achievements P{
-    color: rgb(255, 247, 247);
-    align-items: center;
-    justify-content: center;
-    margin: auto; 
-    padding: 20px;
-    font-size: larger;
-    font-family: 'Open Sans', sans-serif;
-}
 .skills_section{
     background-color: rgb(0, 0, 0);
     padding: 0;
    
 }
-.experiences_and_achievements{
+.experiences_section{
     background-color: rgb(10, 10, 10);
     
 }
