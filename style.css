@@ -129,12 +129,10 @@ nav ul li a:hover{
     align-items: center;
     justify-content: center;
     margin: auto; 
-    /* width: 640px;  */
     padding: 50px;
-    font-size: x-large;
+    font-size: larger;
     font-family: 'Open Sans', sans-serif;
-    line-height: 1.5;
-    word-spacing: 5;    
+   
 
 }
 .services_section P{
@@ -155,7 +153,7 @@ nav ul li a:hover{
      width: 640px; 
     padding: 10px;
     font-family: 'Open Sans', sans-serif;
-    font-size: x-large;
+    font-size: large;
 
 }
 .skills_section ul li h1{
@@ -169,7 +167,7 @@ nav ul li a:hover{
     width: 640px; 
     padding: 50px;
     font-family: 'Open Sans', sans-serif;
-    font-size: x-large;
+    font-size: large;
 
 }
 
@@ -180,12 +178,3 @@ nav ul li a:hover{
     background-color: rgb(10, 10, 10);
     
 }
-.grid-container {
-    display: flex;
-    height: 400px;
-    gap: 10px;
-    background-color: #000000;
-    padding: 10px;
-  }
-
-
