@@ -150,16 +150,11 @@ nav ul li a:hover{
     color: rgb(255, 255, 255);
     align-items: center;
     justify-content: center;
-     /* margin: auto;  */
-     width: 450px; 
+    width: 450px; 
     padding: 10px;
-    /* margin: 10px; */
     font-family: 'Open Sans', sans-serif;
     font-size: large;
 
-}
-.skills_section ul li h1{
-    color: rgb(255, 255, 255);
 }
 .experiences_and_achievements P{
     color: rgb(255, 255, 255);
