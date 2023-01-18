@@ -96,7 +96,7 @@ nav ul li a:hover{
     font-family: 'Open Sans', sans-serif;
     font-family: 'Secular One', sans-serif;
 }
-.services_section h1{
+.services_container h1{
     color: rgb(157, 11, 11);
     font-weight: lighter;
     align-items: center;
@@ -106,10 +106,19 @@ nav ul li a:hover{
     font-family: 'Secular One', sans-serif;
    
 }
+ .services_container{
+    background-color:rgb(0, 0, 0.8);
+    /* display:grid; 
+    flex-direction: row; 
+    flex-wrap: nowrap; 
+    justify-content: space-around;  */
+    
+    
+ }
 .box{
     width: 20%;
-    height: 300px;
-    background: yellow;
+    height: 200px;
+    background:  rgb(157, 11, 11);
     margin: 20px;
     box-sizing: border-box;
     font: 50px;
@@ -149,21 +158,13 @@ nav ul li a:hover{
     color: rgb(255, 247, 247);
     align-items: center;
     justify-content: center;
+    padding-left: 30px;
     font-size: larger;
     font-family: 'Open Sans', sans-serif;
    
 
 }
-.services_section P{
-   
-    align-items: center;
-    justify-content: center;
-    /* margin: auto; */
-    width: 640px; 
-    padding: 50px;
-    font-family: 'Open Sans', sans-serif;
 
-}
 .skills_section ul li{
     color: rgb(255, 255, 255);
     width: 550px; 
@@ -191,4 +192,8 @@ nav ul li a:hover{
  padding: 50px;
  font-family: 'Open Sans', sans-serif;
    
+}
+.flex-container{
+    display: flex;
+    padding: 50px;
 }
