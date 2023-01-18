@@ -108,6 +108,7 @@ nav ul li a:hover{
 }
  .services_container{
     background-color:rgb(0, 0, 0.8);
+    padding: 50px;
     /* display:grid; 
     flex-direction: row; 
     flex-wrap: nowrap; 
@@ -195,5 +196,6 @@ nav ul li a:hover{
 }
 .flex-container{
     display: flex;
-    padding: 50px;
+    flex-wrap: wrap;
+    
 }
