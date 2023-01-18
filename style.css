@@ -180,6 +180,9 @@ nav ul li a:hover{
     display: flex;
    
 }
-.achievements {
-    color: blue;
+.crimson-note{
+ color: white;
+ padding: 50px;
+ font-family: 'Open Sans', sans-serif;
+   
 }
