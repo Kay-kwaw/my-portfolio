@@ -121,8 +121,6 @@ nav ul li a:hover{
 .skills_section h1{
     color: rgb(157, 11, 11);
     font-weight: lighter;
-    align-items: center;
-    justify-content: center;
     padding: 50px;
     font-family: 'Open Sans', sans-serif;
     font-family: 'Secular One', sans-serif;
@@ -162,7 +160,7 @@ nav ul li a:hover{
 
 .skills_section ul li{
     color: rgb(255, 255, 255);
-    width: 550px; 
+    width: 600px; 
     padding: 10px;
     font-family: 'Open Sans', sans-serif;
     font-size: large;
@@ -170,7 +168,7 @@ nav ul li a:hover{
 }
 .skills_section{
     background-color: rgb(0, 0, 0);
-    padding: 0;
+   
    
 }
 .experiences_section{
