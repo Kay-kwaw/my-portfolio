@@ -108,7 +108,6 @@ nav ul li a:hover{
  }
 .box{
     color: white;
-    justify-content: center; 
     width: 35%;
     height: 150px;
     background:  rgb(10, 10, 10);
@@ -195,8 +194,7 @@ nav ul li a:hover{
     
 }
 .web{
-   padding-left: 150px;
-   padding-top: 50px;
+ text-align: center;
 }
 
 .footer {
@@ -206,3 +204,4 @@ nav ul li a:hover{
     text-align: center;
    
   }
+ 
