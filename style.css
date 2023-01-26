@@ -159,15 +159,17 @@ nav ul li a:hover{
 
 .skills_section ul li{
     color: rgb(255, 255, 255);
-    width: 600px; 
+    width: 300px; 
     padding: 5px;
     font-family: 'Open Sans', sans-serif;
     font-size: large;
-    margin: 30px;
+    /* margin: 30px; */
 
 }
 .skills_section{
     background-color: rgb(0, 0, 0);
+    /* width: 100%;
+    display: none; */
    
    
 }
@@ -207,4 +209,9 @@ nav ul li a:hover{
   }
  .my-icon{
     color: rgb(255, 255, 255);
+ }
+ .language{
+    margin: 40px;
+    padding: 10px;
+   
  }
