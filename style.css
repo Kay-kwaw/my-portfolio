@@ -22,10 +22,14 @@ nav{
 }
 .logo{
     color: white;
-    font-size: 28;
+    font-size: 40;
+    font-family: 'Explora', cursive;
+   
 }
 span{
     color: rgb(157, 11, 11);
+    /* font-family: 'Explora', cursive; */
+
 }
 nav ul li{
     list-style-type: none;
@@ -51,7 +55,7 @@ nav ul li a:hover{
     width: 100%;
     height: 100vh;
     display: flex;
-    /* flex-direction: column; */
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     background-color: black;
@@ -169,8 +173,7 @@ nav ul li a:hover{
 }
 .skills_section{
     background-color: rgb(0, 0, 0);
-    /* width: 100%;
-    display: none; */
+    /* display: inline-block; */
    
    
 }
