@@ -31,6 +31,7 @@ span{
     /* font-family: 'Explora', cursive; */
 
 }
+
 nav ul li{
     list-style-type: none;
     display: inline ;
@@ -49,6 +50,7 @@ nav ul li a{
 nav ul li a:hover{
     color:  rgb(157, 11, 11);
     text-decoration: 0.3s;
+    background-color: #000000;
 }
 
 .image{
@@ -221,3 +223,14 @@ nav ul li a:hover{
     padding: 10px;
    
  }
+ .menu{
+  width: 35px;
+  height: 5px;
+  background-color: rgb(255, 255, 255);
+  margin: 6px 0;
+ }
+ .hi{
+    width: 35px;
+    height: 5px;
+    background-color: rgb(255, 255, 255);
+    margin: 6px 0; }
