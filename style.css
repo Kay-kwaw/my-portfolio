@@ -92,6 +92,7 @@ nav ul li a:hover{
 .about_section{
     color: rgb(0, 0, 0.8);
     background-color: rgb(10, 10, 10);
+  
 }
 
 .about_section h1{
@@ -122,13 +123,12 @@ nav ul li a:hover{
     box-sizing: border-box;
     font: 100px;
     font-family: 'Open Sans', sans-serif;
-    font-family: 'Secular One', sans-serif;
 }
 .skills_section h1{
     color: rgb(157, 11, 11);
     font-weight: lighter;
     padding: 50px;
-    font-family: 'Open Sans', sans-serif;
+    
     font-family: 'Secular One', sans-serif;
     text-align: center;
     
